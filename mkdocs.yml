@@ -1,0 +1,231 @@
+site_name: IHC - Grupo 4
+site_author: Breno Teixeira, Gabriel Diniz, Júlia Gabriela, Lucas Oliveira, Pedro Americo, Pedro Ian, Pedro Lucas
+site_description: Site voltado para a documentação do Grupo 4 sobre Interação Humano-Computador 2026.1
+repo_url: https://github.com/Interacao-Humano-Computador/2026.1-Grupo04
+repo_name: 2026.1-Grupo04
+
+nav:
+  - Sobre: index.md
+
+  - Planejamento:
+      - "Cronograma": planejamento/cronograma.md
+      - "Ferramentas": planejamento/ferramentas.md
+      - "Mapa de Energia": planejamento/heatmap.md
+      - "Processo de design": planejamento/processoDesign.md
+      - "Sites Avaliados": planejamento/sitesAvaliados.md
+      - "Site Escolhido": planejamento/siteEscolhido.md
+
+  - Tabela de Atividades Desenvolvidas:
+      - "Entrega 1": tabelasAtividades/entrega1.md
+      - "Entrega 2": tabelasAtividades/entrega2.md
+      - "Entrega 3": tabelasAtividades/entrega3.md
+      - "Entrega 4": tabelasAtividades/entrega4.md
+      - "Entrega 5": tabelasAtividades/entrega5.md
+      - "Entrega 6": tabelasAtividades/entrega6.md
+      - "Entrega 7": tabelasAtividades/entrega7.md
+
+  - Apresentações:
+      - "Entrega 1": apresentacoes/entrega1.md
+      - "Entrega 2": apresentacoes/entrega2.md
+      - "Entrega 3": apresentacoes/entrega3.md
+      - "Entrega 4": apresentacoes/entrega4.md
+      - "Entrega 5": apresentacoes/entrega5.md
+      - "Entrega 6": apresentacoes/entrega6.md
+      - "Entrega 7": apresentacoes/entrega7.md
+      - "Entrega 8": apresentacoes/entrega8.md
+      - "Entrega Final": apresentacoes/entregaFinal.md
+      - Atas:
+        - "Ata reunião 1": atas/ata1.md
+        - "Ata reunião 2": atas/ata2.md
+        - "Ata reunião 3": atas/ata3.md
+        - "Ata reunião 4": atas/ata4.md
+        - "Ata reunião 5": atas/ata5.md
+        - "Ata reunião 6": atas/ata6.md
+        - "Ata reunião 7": atas/ata7.md
+        - "Ata reunião 8": atas/ata8.md
+        - "Ata reunião 9": atas/ata9.md
+
+  - Verificações e Inspeções:
+      - "Entrega 1":
+          - "Verificação": verificacoes/entrega1/verificacao.md
+          - "Inspeção": verificacoes/entrega1/avaliacao.md
+          - "Inspeção grupo 5": verificacoes/entrega1/avaliacao+1.md
+      - "Entrega 2":
+          - "Verificação": verificacoes/entrega2/verificacao.md
+          - "Inspeção": verificacoes/entrega2/avaliacao.md
+          - "Inspeção grupo 3": verificacoes/entrega2/avaliacao+1.md
+      - "Entrega 3":
+          - "Verificação": verificacoes/entrega3/verificacao.md
+          - "Inspeção": verificacoes/entrega3/avaliacao.md
+          - "Inspeção grupo 5": verificacoes/entrega3/avaliacao+1.md
+      - "Entrega 4":
+          - "Verificação": verificacoes/entrega4/verificacao.md
+          - "Inspeção": verificacoes/entrega4/avaliacao.md
+          - "Inspeção grupo 3": verificacoes/entrega4/avaliacao+1.md
+      - "Entrega 5":
+          - "Verificação": verificacoes/entrega5/verificacao.md
+          - "Inspeção": verificacoes/entrega5/avaliacao.md
+          - "Inspeção grupo 5": verificacoes/entrega5/avaliacao+1.md
+      - "Entrega 6":
+          - "Verificação": verificacoes/entrega6/verificacao.md
+          - "Inspeção": verificacoes/entrega6/avaliacao.md
+          - "Inspeção grupo 3": verificacoes/entrega6/avaliacao+1.md
+      - "Entrega 7":
+          - "Verificação": verificacoes/entrega7/verificacao.md
+          - "Inspeção": verificacoes/entrega7/avaliacao.md
+          - "Inspeção grupo 5": verificacoes/entrega7/avaliacao+1.md
+      - "Entrega 8":
+          - "Inspeção": verificacoes/entrega8/avaliacao.md
+          - "Inspeção grupo 3 e 5": verificacoes/entrega8/avaliacao+1.md
+      - "Verificações Antigas":
+          - "Entrega 1":
+              - "Verificação": verificacoes/antigas/entrega1/avaliacao.md
+              - "Verificação grupo 5": verificacoes/antigas/entrega1/avaliacao+1.md
+          - "Entrega 2":
+              - "Verificação": verificacoes/antigas/entrega2/avaliacao.md
+              - "Verificação grupo 3": verificacoes/antigas/entrega2/avaliacao+1.md
+          - "Entrega 3":
+              - "Verificação": verificacoes/antigas/entrega3/avaliacao.md
+              - "Verificação grupo 5": verificacoes/antigas/entrega3/avaliacao+1.md
+          - "Entrega 4":
+              - "Verificação": verificacoes/antigas/entrega4/avaliacao.md
+              - "Verificação grupo 3": verificacoes/antigas/entrega4/avaliacao+1.md
+          - "Entrega 5":
+              - "Verificação": verificacoes/antigas/entrega5/avaliacao.md
+              - "Verificação grupo 5": verificacoes/antigas/entrega5/avaliacao+1.md
+          - "Entrega 6":
+              - "Verificação": verificacoes/antigas/entrega6/avaliacao.md
+              - "Verificação grupo 3": verificacoes/antigas/entrega6/avaliacao+1.md
+          - "Entrega 7":
+              - "Verificação": verificacoes/antigas/entrega7/avaliacao.md
+              - "Verificação grupo 5": verificacoes/antigas/entrega7/avaliacao+1.md
+
+  - Análise de requisitos:
+      - "Aspectos éticos": analiseRequisitos/aspectosEticos.md
+      - "Coleta de Dados":
+        - "Brainstorming": analiseRequisitos/coletaDados/brainstorm.md
+        - "Card Sorting": analiseRequisitos/coletaDados/cardSorting.md
+        - "Analise de Documentos":
+          - "Carta de Serviço": analiseRequisitos/coletaDados/analiseDocumentos/cartaServico.md
+          - "Código de Ética": analiseRequisitos/coletaDados/analiseDocumentos/codigoEtica.md
+          - "Estatuto": analiseRequisitos/coletaDados/analiseDocumentos/estatutoFHB.md
+          - "Manual de Unidades Conveniadas": analiseRequisitos/coletaDados/analiseDocumentos/manualUnidConveniada.md
+          - "Mapa Estratégico": analiseRequisitos/coletaDados/analiseDocumentos/mapaEstrategico.md
+          - "Regimento Interno": analiseRequisitos/coletaDados/analiseDocumentos/regimentoInterno.md
+          - "Relatório de Ouvidoria": analiseRequisitos/coletaDados/analiseDocumentos/relatorioOuvidoriaFHB.md
+      - "Perfil de usuário":
+        - "Perfil de usuário 1": analiseRequisitos/perfilUsuario/perfilUsuario1.md
+        - "Perfil de usuário 2": analiseRequisitos/perfilUsuario/perfilUsuario2.md
+        - "Perfil de usuário 3": analiseRequisitos/perfilUsuario/perfilUsuario3.md
+        - "Perfil de usuário 4": analiseRequisitos/perfilUsuario/perfilUsuario4.md
+      - "Elenco de Personas": analiseRequisitos/elencoPersonas.md
+      - "Cenários": analiseRequisitos/cenarios.md
+      - "Análise de tarefas":
+        - "HTA":
+          - "HTA - 1": analiseRequisitos/analiseTarefas/HTA/HTAPersona1.md
+          - "HTA - 2": analiseRequisitos/analiseTarefas/HTA/HTAPersona2.md
+          - "HTA - 3": analiseRequisitos/analiseTarefas/HTA/HTAPersona3.md
+          - "HTA - 4": analiseRequisitos/analiseTarefas/HTA/HTAPersona4.md
+          - "HTA - 5": analiseRequisitos/analiseTarefas/HTA/HTAPersona5.md
+          - "HTA - 6": analiseRequisitos/analiseTarefas/HTA/HTAPersona6.md
+          - "HTA - 7": analiseRequisitos/analiseTarefas/HTA/HTAPersona7.md
+        - "GOMS":
+          - "GOMS - 1": analiseRequisitos/analiseTarefas/GOMS/GOMSPersona1.md
+          - "GOMS - 2": analiseRequisitos/analiseTarefas/GOMS/GOMSPersona2.md
+          - "GOMS - 3": analiseRequisitos/analiseTarefas/GOMS/GOMSPersona3.md
+          - "GOMS - 4": analiseRequisitos/analiseTarefas/GOMS/GOMSPersona4.md
+          - "GOMS - 5": analiseRequisitos/analiseTarefas/GOMS/GOMSPersona5.md
+          - "GOMS - 6": analiseRequisitos/analiseTarefas/GOMS/GOMSPersona6.md
+          - "GOMS - 7": analiseRequisitos/analiseTarefas/GOMS/GOMSPersona7.md
+      - "Princípios gerais de projeto": analiseRequisitos/principiosGeraisProjeto.md
+      - "Metas de usabilidade": analiseRequisitos/metasUsabilidade.md
+      - "Guia de estilo": analiseRequisitos/guiaEstilo.md
+      - "Características da plataforma": analiseRequisitos/caracteristicasGerais.md
+
+  - Design, Avaliação e Desenvolvimento:
+      - "Nível 1":
+          - " Análise de tarefas":
+              - " Planejamento da avaliação da Análise de Tarefas": desenvolvimento/nivel1/analise/planejamentoAvaliacao.md
+              - " Planejamento do relato dos resultados da avaliação da Análise de Tarefas": desenvolvimento/nivel1/analise/planejamentoRelato.md
+              - " Relato dos resultados da avaliação da Análise de Tarefas": desenvolvimento/nivel1/analise/relato.md
+          - " Storyboard ":
+              - " Planejamento da Avaliação do Storyboard": desenvolvimento/nivel1/storyboard/planejamentoAvaliacao.md
+              - " Planejamento do relato dos resultados da avaliação do Storyboard": desenvolvimento/nivel1/storyboard/planejamentoRelato.md
+              - " Relato dos resultados da avaliação do Storyboard": desenvolvimento/nivel1/storyboard/relato.md
+              - "Storyboards": desenvolvimento/nivel1/storyboard/storyboards.md
+      - "Nivel 2":
+          - "Protótipo de papel":
+              - "Planejamento da Avaliação do Protótipo de Papel": desenvolvimento/nivel2/prototipoPapel/planejamentoAvaliacao.md
+              - "Planejamento do Relato dos Resultado do Protótipo de Papel": desenvolvimento/nivel2/prototipoPapel/planejamentoRelato.md
+              - "Resultado do Relato dos Resultado do Protótipo de Papel": desenvolvimento/nivel2/prototipoPapel/relato.md
+              - "Prototipos": desenvolvimento/nivel2/prototipoPapel/prototipo.md
+      - "Nível 3":
+          - "Protótipo de Alta Fidelidade":
+              - "Planejamento da Avaliação do Protótipo de Alta Fidelidade": desenvolvimento/nivel3/planejamentoAvaliacao.md
+              - "Planejamento do Relato dos Resultado do Protótipo de Alta Fidelidade": desenvolvimento/nivel3/planejamentoRelato.md
+              - "Resultado do Relato dos Resultados do Protótipo de Alta Fidelidade": desenvolvimento/nivel3/relato.md
+              - "Protótipo de Alta Fidelidade": desenvolvimento/nivel3/prototipos.md
+
+  - Entrega Final:
+      - "Síntese de Contribuições": entregaFinal/tabela.md #8
+      - "Site Escolhido - Hemocentro": entregaFinal/hemocentro.md #1
+      - "Ciclo de vida": entregaFinal/cicloVida.md #2
+      - "Planejamento Recursos e Entregas": entregaFinal/planejamento.md #3
+      - "Execução do Projeto": entregaFinal/execucao.md #4 
+      - "Resultados": entregaFinal/resultados.md #5
+      - "Ferramentas": entregaFinal/ferramentas.md #6
+      - "Técnicas": entregaFinal/tecnicas.md #7
+      - "Avaliações dos Artefatos": entregaFinal/avaliacoes.md #9
+      - "Vídeos das Apresentações": entregaFinal/apresentacoes.md #10
+      - "Feedback": entregaFinal/feedback.md #13
+      - "Ferramentas de IA": entregaFinal/IA.md #14
+      - "Entrega Final Video": apresentacoes/entregaFinal.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+
+  disable_nav_previous_next: true
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Trocar para modo escuro
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Trocar para modo claro
+
+  favicon: assets/logoHemocentroPequeno.ico
+  logo: assets/logoHemocentroPequeno.ico
+
+markdown_extensions:
+  - tables
+  - attr_list
+  - pymdownx.blocks.caption
+  - pymdownx.tasklist:
+        custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - md_in_html
+
+extra_css: [stylesheets/extra.css]
+
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      zoomable: true
+      draggable: true
+
+extra_css: [stylesheets/extra.css]
